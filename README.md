@@ -1,4 +1,4 @@
-<h1 align="center">⚡ bulidhc.pl ⚡</h1>
+<h1 align="center">⚡ kubson / bulidhc.pl ⚡</h1>
 
 <p align="center">
   <a href="https://github.com/kubsoneczek?tab=followers">
