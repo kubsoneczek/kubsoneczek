@@ -1,4 +1,4 @@
-<h1 align="center">⚡ kubson / bulidhc.pl ⚡</h1>
+<h1 align="center">⚡ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=30&pause=1000&color=FFFFFF&width=395&height=48&lines=kubson)](https://git.io/typing-svg) ⚡</h1>
 
 <p align="center">
   <a href="https://github.com/kubsoneczek?tab=followers">
